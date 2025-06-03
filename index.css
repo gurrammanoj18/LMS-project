@@ -1,0 +1,168 @@
+.logo{
+    height: 90px;
+    width: 110px;
+}
+#options{
+    color: black;
+}
+.home{
+    background-image: url("https://www.360connect.com/wp-content/uploads/2020/09/iStock-942674048-1024x683.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.mainHeading{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 45px;
+}
+span{
+    color: rgba(220, 216, 216, 0.86);
+    font-weight: bolder;
+}
+.button{
+    background-color: black;
+    color: rgb(212, 209, 209);
+    border-radius:5px;
+    border-width: 0px;
+    width: 100px;
+    height: 40px;
+    
+    text-align: center;
+}
+.button1{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    border-radius:5px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 120px;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 10px;
+    padding-left: 10px;
+    
+    text-align: center;
+}
+
+.navbar{
+    background-image: url("https://i.pinimg.com/originals/9b/a5/ac/9ba5ace45b8ba06484303da54cd71fed.jpg");
+    background-size: cover;
+}
+
+.servicesHeading{
+    color: rgb(1, 1, 86);
+    font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.servicespara{
+    padding-left: 25px;
+    padding-bottom: 30px;
+}
+
+.cardhead{
+    color: rgb(1, 1, 86);
+    font-weight: bold;
+    padding-top: 10px;
+}
+.coolimg{
+    height: 150px;
+    width: 250px;
+    border-radius: 5px;
+}
+.cardOne{
+    text-align: center;
+    border-radius: 10px;
+    background-color: #cdeaff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.cardPara{
+    color: black;
+}
+.spanOne{
+    color: black;
+    font-weight: 600;
+    
+    padding-bottom: 30px;
+    
+}
+.chooseHead{
+    padding-top: 20px;
+    color: rgb(1, 1, 86);
+    padding-left: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.chooseCard{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+li{
+    padding-bottom: 30px;
+
+}
+
+.imgList{
+    height: 600px;
+    width: 400px;
+}
+.saveWaterLogo{
+    height: 350px;
+    width: 550px;
+    margin-left: 240px;
+}
+
+.services{
+    background-color: rgb(255, 255, 255);
+}
+.followUS{
+    background-image: url("https://img.freepik.com/free-photo/view-water-splash_23-2150718314.jpg");
+    height: 50vh;
+    background-size: cover;
+    border-radius: 5px;
+}
+.followHead{
+    font-weight: bold;
+    font-size: 50px;
+
+}
+.iconContainer{
+    background-color: white;
+    border-radius: 40px;
+    height: 80px;
+    width: 80px;
+    padding-left: 25px;
+    padding-top: 25px;
+    margin: 10px;
+}
+.icon{
+    font-size: 30px;
+}
+.mapimg{
+    height: 400px;
+    width: 400px;
+}
+.servicesHeading1{
+    color: rgb(1, 1, 86);
+    font-weight: bold;
+}
+
+.businessHeading{
+    padding-left: 20px;
+    padding-top: 20px;
+    color: black;
+    font-weight: bold;
+
+}
+.villageName{
+    color: red;
+    font-weight: bolder;
+}
+
+#sectionChoose{
+    background-color: rgb(219, 212, 226);
+}

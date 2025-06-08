@@ -553,14 +553,16 @@ a {
     }
     .card-treat{
     background-color: rgb(213, 235, 242);
-    height: 80vh;
+    height: 55vh;
     display: flex;
     flex-direction: row;
     padding-top: 20px;
     justify-content: center;
     width: 100vw;
     }
-
+    #options{
+        padding-left: 40px;
+    }
     .mapimg {
         width: 250px;
         height: 180px;
@@ -573,7 +575,10 @@ a {
 /* Medium Desktops (993px - 1200px) */
 @media (min-width: 993px) and (max-width: 1200px) {
     .container-fluid {
-        gap: 8rem;
+        gap: 5rem;
+    }
+    #options{
+        padding-left: 44px;
     }
 
     .servicesHeading,
